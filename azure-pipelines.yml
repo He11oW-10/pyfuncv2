@@ -16,8 +16,6 @@ variables:
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
 
-  # Working Directory
-  workingDirectory: '/'
 
 stages:
 - stage: Build
